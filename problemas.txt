@@ -1,0 +1,5 @@
+De forte aclopamento
+e problema de ficar proucurando onde fica cada classe cada metodo que faz as etapas do processo
+ou pior é que o processo dentro do monolito não é assiclono 
+ao clicar no botão fica carregando o gif carregando ou seja o usuario tem aguardar o sistema processar tudo pra depois 
+prosseguir com as demais coisas.
